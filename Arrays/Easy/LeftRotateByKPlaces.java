@@ -1,3 +1,4 @@
+package Arrays.Easy;
 class Solution {
     public void rotateArray(int[] nums, int k) {
         int n = nums.length;

@@ -1,3 +1,4 @@
+package Arrays.Easy;
 class Solution {
     public int singleNumber(int[] nums) {
        int n = nums.length;
